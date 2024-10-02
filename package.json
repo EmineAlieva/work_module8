@@ -1,0 +1,21 @@
+{
+  "name": "emine",
+  "version": "1.0.0",
+  "description": "Node.js project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmineAlieva/work_module8.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Emine",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
